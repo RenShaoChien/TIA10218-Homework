@@ -106,7 +106,7 @@ public class HomeWork2 {
                         continue;
                     case 5:
                         System.out.print('E');
-                        continue;
+                        break;
                     case 4:
                         System.out.print('D');
                         continue;
