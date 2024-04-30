@@ -42,6 +42,8 @@ public class Traingle {
             System.out.println("這是一個直角三角形。");
         }else if (a == 0 || b == 0 || c == 0){
             System.out.println("你喵的懂不懂什麼是三角形！");
+        }else {
+        	System.out.println("這是一個一般三角形。");
         }
     }
 }
